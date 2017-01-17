@@ -1,0 +1,6 @@
+Fudd,Elmer,J,2000 North 8th St,,Kalamazoo,MI,49008,555,355,9999
+Pig, Porky, M, 11th Avenue,Apartment C,Crystal Falls,IL,65432,218,777,6666
+Bunny,Bugs,L,1503 Carrot Street,,Big Hill, MN, 98765, 333,222,9678
+Cat,Sylvester,C,3111 Cage Avenue,Cage 3,Honolulu,HI,33333,789,213,4444
+Snerd,Mortimer,K,888 Seventeenth Street,,Paducah,TX,48848,333,333,1234
+Bunny,Bugs,K,1503 Carrot Street,,Big Hill,MN,98765,333,222,9678

@@ -1,0 +1,237 @@
+Algeria           Africa             69.7
+Angola            Africa             38.3
+Benin             Africa             50.2
+Botswana          Africa             39.3
+Burkina Faso      Africa             46.7
+Burundi           Africa             46.2
+Cameroon          Africa             54.8
+Cape Verde        Africa             68.9
+Central African   Africa               44
+Chad              Africa             50.5
+Comoros           Africa               60
+Congo             Africa             47.4
+Congo The Democ   Africa             48.8
+Cote d-Ivoire     Africa             45.2
+Djibouti          Africa             50.8
+Egypt             Africa             63.3
+Equatorial Guin   Africa             53.6
+Eritrea           Africa             55.8
+Ethiopia          Africa             45.2
+Gabon             Africa             50.1
+Gambia            Africa             53.2
+Ghana             Africa             57.4
+Guinea            Africa             45.6
+Guinea-Bissau     Africa               49
+Kenya             Africa               48
+Lesotho           Africa             50.8
+Liberia           Africa               51
+Libyan Arab Jam   Africa             75.5
+Madagascar        Africa               55
+Malawi            Africa             37.6
+Mali              Africa             46.7
+Mauritania        Africa             50.8
+Mauritius         Africa               71
+Mayotte           Africa             59.5
+Morocco           Africa             69.1
+Mozambique        Africa             37.5
+Namibia           Africa             42.5
+Niger             Africa             41.3
+Nigeria           Africa             51.6
+Reunion           Africa             72.7
+Rwanda            Africa             39.3
+Saint Helena      Africa             76.8
+Sao Tome and Pr   Africa             65.3
+Senegal           Africa             62.2
+Seychelles        Africa             70.4
+Sierra Leone      Africa             45.3
+Somalia           Africa             46.2
+South Africa      Africa             51.1
+Sudan             Africa             56.6
+Swaziland         Africa             40.4
+Tanzania          Africa             52.3
+Togo              Africa             54.7
+Tunisia           Africa             73.7
+Uganda            Africa             42.9
+Western Sahara    Africa             49.8
+Zambia            Africa             37.2
+Zimbabwe          Africa             37.8
+Afghanistan       Asia               45.9
+Armenia           Asia               66.4
+Azerbaijan        Asia               62.9
+Bahrain           Asia                 73
+Bangladesh        Asia               60.2
+Bhutan            Asia               52.4
+Brunei            Asia               73.6
+Cambodia          Asia               56.5
+China             Asia               71.4
+Cyprus            Asia               76.7
+East Timor        Asia                 46
+Georgia           Asia               64.5
+Hong Kong         Asia               79.5
+India             Asia               62.5
+Indonesia         Asia                 68
+Iran              Asia               69.7
+Iraq              Asia               66.5
+Israel            Asia               78.6
+Japan             Asia               80.7
+Jordan            Asia               77.4
+Kazakstan         Asia               63.2
+Kuwait            Asia               76.1
+Kyrgyzstan        Asia               63.4
+Laos              Asia               53.1
+Lebanon           Asia               71.3
+Macao             Asia               81.6
+Malaysia          Asia               70.8
+Maldives          Asia               62.2
+Mongolia          Asia               67.3
+Myanmar           Asia               54.9
+Nepal             Asia               57.8
+North Korea       Asia               70.7
+Oman              Asia               71.8
+Pakistan          Asia               61.1
+Palestine         Asia               71.4
+Philippines       Asia               67.5
+Qatar             Asia               72.4
+Saudi Arabia      Asia               67.8
+Singapore         Asia               80.1
+South Korea       Asia               74.4
+Sri Lanka         Asia               71.8
+Syria             Asia               68.5
+Taiwan            Asia               76.4
+Tajikistan        Asia               64.1
+Thailand          Asia               68.6
+Turkey            Asia                 71
+Turkmenistan      Asia               60.9
+United Arab Emi   Asia               74.1
+Uzbekistan        Asia               63.7
+Vietnam           Asia               69.3
+Yemen             Asia               59.8
+Albania           Europe             71.6
+Andorra           Europe             83.5
+Austria           Europe             77.7
+Belarus           Europe               68
+Belgium           Europe             77.8
+Bosnia and Herz   Europe             71.5
+Bulgaria          Europe             70.9
+Croatia           Europe             73.7
+Czech Republic    Europe             74.5
+Denmark           Europe             76.5
+Estonia           Europe             69.5
+Faroe Islands     Europe             78.4
+Finland           Europe             77.4
+France            Europe             78.8
+Germany           Europe             77.4
+Gibraltar         Europe               79
+Greece            Europe             78.4
+Hungary           Europe             71.4
+Iceland           Europe             79.4
+Ireland           Europe             76.8
+Italy             Europe               79
+Latvia            Europe             68.4
+Liechtenstein     Europe             78.8
+Lithuania         Europe             69.1
+Luxembourg        Europe             77.1
+Macedonia         Europe             73.8
+Malta             Europe             77.9
+Moldova           Europe             64.5
+Monaco            Europe             78.8
+Netherlands       Europe             78.3
+Norway            Europe             78.7
+Poland            Europe             73.2
+Portugal          Europe             75.8
+Romania           Europe             69.9
+Russian Federat   Europe             67.2
+San Marino        Europe             81.1
+Slovakia          Europe             73.7
+Slovenia          Europe             74.9
+Spain             Europe             78.8
+Sweden            Europe             79.6
+Switzerland       Europe             79.6
+Ukraine           Europe               66
+United Kingdom    Europe             77.7
+Yugoslavia        Europe             72.4
+Anguilla          North America      76.1
+Antigua and Bar   North America      70.5
+Aruba             North America      78.4
+Bahamas           North America      71.1
+Barbados          North America        73
+Belize            North America      70.9
+Bermuda           North America      76.9
+Canada            North America      79.4
+Cayman Islands    North America      78.9
+Costa Rica        North America      75.8
+Cuba              North America      76.2
+Dominica          North America      73.4
+Dominican Repub   North America      73.2
+El Salvador       North America      69.7
+Greenland         North America      68.1
+Grenada           North America      64.5
+Guadeloupe        North America        77
+Guatemala         North America      66.2
+Haiti             North America      49.2
+Honduras          North America      69.9
+Jamaica           North America      75.2
+Martinique        North America      78.3
+Mexico            North America      71.5
+Montserrat        North America        78
+Netherlands Ant   North America      74.7
+Nicaragua         North America      68.7
+Panama            North America      75.5
+Puerto Rico       North America      75.6
+Saint Kitts and   North America      70.7
+Saint Lucia       North America      72.3
+Saint Pierre an   North America      77.6
+Saint Vincent a   North America      72.3
+Trinidad and To   North America        68
+Turks and Caico   North America      73.3
+United States     North America      77.1
+Virgin Islands    North America      75.4
+Virgin Islands    North America      78.1
+American Samoa    Oceania            75.1
+Australia         Oceania            79.8
+Cook Islands      Oceania            71.1
+Fiji Islands      Oceania            67.9
+French Polynesi   Oceania            74.8
+Guam              Oceania            77.8
+Kiribati          Oceania            59.8
+Marshall Island   Oceania            65.5
+Micronesia Fede   Oceania            68.6
+Nauru             Oceania            60.8
+New Caledonia     Oceania            72.8
+New Zealand       Oceania            77.8
+Northern Marian   Oceania            75.5
+Palau             Oceania            68.6
+Papua New Guine   Oceania            63.1
+Samoa             Oceania            69.2
+Solomon Islands   Oceania            71.3
+Tonga             Oceania            67.9
+Tuvalu            Oceania            66.3
+Vanuatu           Oceania            60.6
+Argentina         South America      75.1
+Bolivia           South America      63.7
+Brazil            South America      62.9
+Chile             South America      75.7
+Colombia          South America      70.3
+Ecuador           South America      71.1
+French Guiana     South America      76.1
+Guyana            South America        64
+Paraguay          South America      73.7
+Peru              South America        70
+Suriname          South America      71.4
+Uruguay           South America      75.2
+Venezuela         South America      73.1
+
+Life Expectancy: highest is 37.2 for Zambia in Africa
+                 lowest is 83.5 for Andorra in Europe
+                 average is 66.49
+                 median is 70.30
+                 United States is 77.10
+
+                < 60   60-70   70.1-75    > 75
+               |------------------------------
+Africa         |   44    7    4    2 
+Asia           |    8   21   13    9
+Europe         |    0    8   11   25
+North America  |    1    7   12   17
+Oceania        |    1   10    4    5
+South America  |    0    4    5    4

@@ -1,0 +1,32 @@
+//The only input from the user is base pay
+
+
+----------------------------------------------------------------------------------------------------
+
+Total number of morning shifts worked :                                                          156
+
+Total number of afternoon shifts worked :                                                        120
+
+Total number of evening shifts worked :                                                          128
+
+The total hours worked in the period :                                                           404
+
+The shift with minimum hours :                                                       Afternoon Shift
+
+The shift with maximum hours :                                                         Morning Shift
+
+The minimum earning shift was :                                                               120.00
+Wednesday's in November
+
+The maximum earnings :                                                                       1400.00
+Sunday's in September
+
+The total earnings   :                                                                       8080.00
+
+The shift with minimum earning :                                                     Afternoon Shift
+
+The shift with maximum earning :                                                       Morning Shift
+
+The average income             :                                                             2693.33
+----------------------------------------------------------------------------------------------------
+BUILD SUCCESSFUL (total time: 11 seconds)

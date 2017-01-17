@@ -1,0 +1,5 @@
+        # OF COUNTRIES WITH LifeExp
+             <= 70       > 70
+        ---------------------------
+Africa          51          6
+Europe           8         36

@@ -1,0 +1,46 @@
+
+Europe in LIFE EXPECTANCY ORDER
+Moldova                Eastern Europe       4,380,000    64.5
+Ukraine                Eastern Europe      50,456,000    66.0
+Russian Federation     Eastern Europe     146,934,000    67.2
+Belarus                Eastern Europe      10,236,000    68.0
+Latvia                 Baltic Countries     2,424,200    68.4
+Lithuania              Baltic Countries     3,698,500    69.1
+Estonia                Baltic Countries     1,439,200    69.5
+Romania                Eastern Europe      22,455,500    69.9
+Bulgaria               Eastern Europe       8,190,900    70.9
+Hungary                Eastern Europe      10,043,200    71.4
+Bosnia and Herzegovina Southern Europe      3,972,000    71.5
+Albania                Southern Europe      3,401,200    71.6
+Yugoslavia             Southern Europe     10,640,000    72.4
+Poland                 Eastern Europe      38,653,600    73.2
+Croatia                Southern Europe      4,473,000    73.7
+Slovakia               Eastern Europe       5,398,700    73.7
+Macedonia              Southern Europe      2,024,000    73.8
+Czech Republic         Eastern Europe      10,278,100    74.5
+Slovenia               Southern Europe      1,987,800    74.9
+Portugal               Southern Europe      9,997,600    75.8
+Denmark                Nordic Countries     5,330,000    76.5
+Ireland                British Islands      3,775,100    76.8
+Luxembourg             Western Europe         435,700    77.1
+Germany                Western Europe      82,164,700    77.4
+Finland                Nordic Countries     5,171,300    77.4
+Austria                Western Europe       8,091,800    77.7
+United Kingdom         British Islands     59,623,400    77.7
+Belgium                Western Europe      10,239,000    77.8
+Malta                  Southern Europe        380,200    77.9
+Netherlands            Western Europe      15,864,000    78.3
+Faroe Islands          Nordic Countries        43,000    78.4
+Greece                 Southern Europe     10,545,700    78.4
+Norway                 Nordic Countries     4,478,500    78.7
+France                 Western Europe      59,225,700    78.8
+Spain                  Southern Europe     39,441,700    78.8
+Monaco                 Western Europe          34,000    78.8
+Liechtenstein          Western Europe          32,300    78.8
+Italy                  Southern Europe     57,680,000    79.0
+Gibraltar              Southern Europe         25,000    79.0
+Iceland                Nordic Countries       279,000    79.4
+Switzerland            Western Europe       7,160,400    79.6
+Sweden                 Nordic Countries     8,861,400    79.6
+San Marino             Southern Europe         27,000    81.1
+Andorra                Southern Europe         78,000    83.5

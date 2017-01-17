@@ -1,0 +1,16 @@
+Write a report to a file called
+     SmallPersonReport.txt
+which contains:
+1 - a descriptive title
+2 - a blank line
+3 - column headings
+4 - a blank line
+5 - detail lines for each person in the
+        SmallPersonInfo.txt file
+    where each line contains the person's
+        name, picture, age and income
+    nicely spaced across, aligned, formatted.
+6 - the average age and average income
+
+
+Make sure it looks good when opened in NotePad.

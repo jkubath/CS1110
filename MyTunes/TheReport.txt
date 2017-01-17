@@ -1,0 +1,10 @@
+title                 artist          rating year   size genre    mm:ss ownIt
+
+Such Great Heights    Iron & Wine     ***** 2004    3.9 Rock     4:13   Yes
+Western               Mary Smith      ****  1995   47.9 EasyLis  9:0    Yes
+It's a Great Day      Maria Gomez     ***   2016    0.2 Alt      1:0    No 
+Songs from the East   Yi Chang        **    2015   20.6 Classic  20:24  Yes
+Love & Life           Shana Jones     *     1950    0.2 Other    0:59   No 
+Don't Invade MySpace  Tom Czujski     None  2008    0.2 Other    1:20   Yes
+Let's Sing About Java Raj Patel       None  2016    2.0 Movie    20:19  Yes
+Java Programming      Nobody          ***** 2016    3.2 Rock     3:2    Yes

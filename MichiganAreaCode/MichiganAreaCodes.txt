@@ -1,0 +1,35 @@
+Write a program to do the following:
+
+User provides a 10-digit phone number (using a dialog box).
+The program responds to the user (in the Output window):
+- the phone number printed in a "normal phone format:
+    like (269) 387-1234
+- whether or not it's a Michigan number (based on areaCode)
+- if it IS a Michigan number, then what area it's in
+
+Here's the list of Michigan area codes from Wikipedia:
+    231 - Northwestern Lower Michigan: Traverse City, Ludington, Muskegon, Petoskey and Cheboygan
+    248 - Northern Metro Detroit: All of Oakland County, Northville, and most of Northville Township; overlays with area code 947
+    269 - Southwestern Michigan: Battle Creek, Benton Harbor, Allegan, Hastings, Kalamazoo, and St Joseph
+    313 - Wayne County: Detroit, Dearborn, Redford Township, and the Grosse Pointes
+    517 - South Central Michigan: Lansing, East Lansing, Jackson, Charlotte, Coldwater, Howell, Deerfield, and Addison
+    586 - Northeastern Metro Detroit: All of Macomb County
+    616 - Western Michigan: Grand Rapids, Holland, Greenville, Grand Haven, Zeeland, and Ionia
+    734 - Western and Down River/ Southeastern Michigan Metro Detroit: Ann Arbor, Monroe, Wayne, and Ypsilanti
+    810 - Southern Flint and The Thumb: Port Huron, Flint, Flushing, Otisville, Davison, Brighton, Sandusky, and Lapeer
+    906 - Upper Peninsula: Marquette, Sault Ste. Marie, St. Ignace, Escanaba, Iron Mountain, Munising, and Mackinac Island
+    947 - Northern Metro Detroit: All of Oakland County, Northville, and most of Northville Township; overlays with area code 248
+    989 - Central, Tri-Cities and Northeastern Lower Michigan: Alpena, Mt. Pleasant, Bay City, Saginaw, Midland, Owosso, Gaylord, and Bad Axe
+
+Since there's quite a list, use a SWITCH statement to make
+decisions and control things.
+
+NOTE:  Don't show the whole list of cities, just the area,
+       which is the part before the :
+
+PLAN______________________________________________________________________________________
+	get the phone number - long
+	split the phone number
+	format the number
+	678 / 100 - takes only 6
+	678 % 100 - keeps the remainder

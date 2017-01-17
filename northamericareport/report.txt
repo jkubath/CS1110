@@ -1,0 +1,5 @@
+  229              'United States'       1776       77.1
+  89                     'Canada'       1867       79.4
+  24                    'Bermuda'          0       76.9
+  60                  'Greenland'          0       68.1
+ 176  'Saint Pierre and Miquelon'          0       77.6

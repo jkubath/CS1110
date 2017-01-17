@@ -1,0 +1,9 @@
+title,artist,year,rating,genre,size,minutes,seconds,ownIt
+"Such Great Heights",   "Iron & Wine", 2004, 5, "R",   3.9,  4, 13, "yes"
+"Western",              "Mary Smith",  1995, 4, "E",  47.9,  9, 61, "True"
+"It's a Great Day",     "Maria Gomez", 1949, 3, "A",   0.1, 25,  0, "maybe"
+"Songs from the East",  "Yi Chang",    2015, 2, "C", 20.59, 20, 24, "Y"
+"Love & Life",          "Shana Jones", 1950, 1, "Z",  -0.9,  0, 59, "no"
+"Don't Invade MySpace", "Tom Czujski", 2008, 0, "U",  50.1, -2, 20, "T"
+"Let's Sing About Java","Raj Patel",   -999, 8, "M", 1.987, 20, 19, "yeah"
+"Java Programming",     "Nobody",      2017, 5, "R",   3.2,  3,  2, "sure"

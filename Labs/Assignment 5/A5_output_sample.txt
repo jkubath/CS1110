@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------
+
+Total number of morning shifts worked                                                             39
+
+Total number of afternoon shifts worked                                                           30
+
+Total number of evening shifts worked                                                             32
+
+Shift worked the most                                              Tuesdays during the morning shift
+	Total hours for this shift: 32
+
+Shift worked the least                                              Mondays during the evening shift
+	Total hours for this shift: 12
+
+Shift that paid the most                                            Sundays during the evening shift
+	Total pay for this shift: $7000.0
+
+Shift that paid the least                                        Wednesdays during the morning shift
+	Total pay for this shift: $600.0
+
+Day of the week that paid the most by month                    Sundays during the month of September
+	Total pay for this day: $7000.0
+
+Day of the week that paid the most by month                  Wednesdays during the month of November
+	Total pay for this day: $600.0
+
+Average pay per month                                                                     $ 14733.33
+----------------------------------------------------------------------------------------------------
+
+
+**The baseSalary is inputted by user. I enter $50 per hour as base salary for this output.

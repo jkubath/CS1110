@@ -1,0 +1,5 @@
+/* PROJECT:  Lab Assignment 5
+ * AUTHOR:  Jonah Kubath   Wed 12:30
+ * DESCRIPTION: Work Schedule Optimizer     October 31, 2016
+ ******************************************************************************/
+

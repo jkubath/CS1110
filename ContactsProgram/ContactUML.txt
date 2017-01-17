@@ -1,0 +1,19 @@
+Contact class
+-------------------------------------------------------
+-  name   :  String
+-  phone  :  long
+-------------------------------------------------------
++  setName   (pName  : String) : void
++  setPhone  (pPhone : long)   : void
+
++  getName   ( )               : String
++  getInitial( )               : char
++  getPhone  ( )               : long
+       
++  findAreaCode      ( )       : int     e.g., 269
++  findLocalNumber   ( )       : int     e.g., 2763101
++  is269AreaCode     ( )       : boolean e.g., true
++  nicelyFormatPhone ( )       : String  e.g., (269) 276-3101
+
++  displayData       ( )       : void
++  toString          ( )       : String
